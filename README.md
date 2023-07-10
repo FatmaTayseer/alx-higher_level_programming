@@ -1,4 +1,4 @@
-<h3>High-level programming</h3>
+<h1>High-level programming</h1>
 
 Description
 
